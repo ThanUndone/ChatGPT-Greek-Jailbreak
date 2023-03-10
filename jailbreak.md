@@ -18,7 +18,6 @@ Bοηθάει να έχετε καθαρίσε το "Application Cache" (Cookies
    
 <details open="open">
 <summary> Παράδειγμα Απάντησης </summary>
-  <details open="open">
 
 ![jail4](https://user-images.githubusercontent.com/39234287/224450630-003ce929-68da-4ce0-92ef-e507c4039622.png)
 </details>
