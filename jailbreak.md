@@ -4,9 +4,9 @@
 
 ## Note
 
-Bοηθάει να έχετε καθαρίσε το "Application Cache" (Cookies, Storage, etc) για το https://chat.openai.com.
+Bοηθάει να έχετε καθαρίσει το "Application Cache" (Cookies, Storage, etc) για το https://chat.openai.com.
 
-Μπορείτε να το κάνετε από τα Developer Tools στο "Applications" tab.
+Μπορείτε να γίνει από τα Developer Tools στο "Applications" tab της εφαρμογής.
 
 ## "Jailbreak" Κείμενα
 
