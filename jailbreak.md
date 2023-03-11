@@ -18,6 +18,8 @@ Bοηθάει να έχετε καθαρίσει το "Application Cache" (Cooki
    
 <details open="open">
 <summary> Παράδειγμα Απαντήσεων </summary>
+  
+  
 ![jail5](https://user-images.githubusercontent.com/39234287/224454426-d8ebb07b-375c-4ef6-b20a-9c0477575d83.png)
 
   
